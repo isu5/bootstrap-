@@ -1,0 +1,12 @@
+body{font-family:'微软雅黑'}
+.page-logo{font-size:19px; color:#FFF; line-height:45px; }
+.topbtn{width:100%; height:auto; margin-top:-10px; margin-bottom:20px;}
+
+.form-horizontal .control-label{text-align:center}
+.col-md-9 { width:350px;}
+.col-md-3{width:125px;}
+.page{float:right; margin-right:-15px;}
+
+.logoimg{width:57px; height:30px; background:#FFF; border:1px solid #eaeaea}
+
+#sample_editable_1 tr td{vertical-align:middle;}
